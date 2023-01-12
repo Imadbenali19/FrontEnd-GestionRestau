@@ -46,7 +46,6 @@ function App() {
           findPositions={findPositions}
           zonesList={[]}
           // villesList={villes}
-// villesList={villes}
           // specialitesList={specialites}
         />
 
